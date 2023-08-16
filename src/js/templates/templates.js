@@ -106,7 +106,7 @@ class Templates {
             Porta: <span style="color:blue;">34584</span></p>
         </div>
         <div class="m-about" id="ver-down">
-            <h4>Download da versão do miecraft usada no server</h4>
+            <h4>Download da versão do minecraft usada no server</h4>
             <a href="https://drive.google.com/file/d/1-DJQT8CU_x3_5LMg0GrCU4luLxyy0CS6/view?usp=drivesdk">Download</a>
         </div>
     </div>`
