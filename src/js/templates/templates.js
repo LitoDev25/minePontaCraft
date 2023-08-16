@@ -77,12 +77,7 @@ class Templates {
         <button class="back" style="position: absolute; top:50px; left:10px;">voltar</button>
         <div class="txt-apresentation">
         <h1>Quem somos?</h1>
-        <p>Somos de Ponta de pedras - Marajó - Pará,
-            Criamos o grupo para nos divertir-mos entre amigos dentro
-            desse nosso amado jogo. <br>
-            O administrador do grupo Aluizio Diniz, procura sempre
-            promover eventos dentro do game para torna-lo mais divertido
-            aos participantes. Venha se Jutar a nós nessa aventura!
+        <p>Somos um grupo que jogamos Minecraft PE, em conjunto elaborando regras e metodos que ajudem a convivencia em grupo, algo como uma familia, para participar precisa responder perguntas, que vão ser avaliadas pelo administrador. No nosso servidor costumamos morar em uma Cidade Chamada Capital, onde criamos varios eventos em conjunto que chamamos de Festival. Buscamos pessoas que queiram somar e ajudar o grupo a crescer tanto no servidor quanto aqui na página.
         </p></div>
     </div>`;
     }
