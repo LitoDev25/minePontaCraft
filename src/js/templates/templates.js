@@ -62,11 +62,11 @@ class Templates {
             <a href="https://facebook.com/groups/1034944277665282/">Facebook</a>
         </div>
         <div class="m-about" id="Whatsapp">
-            <h4>Grupo Whatsapp</h4>
+            <h4>Grupo Whatsapp:</h4>
             <a href="https://chat.whatsapp.com/F6okB3bY6cA70ZBMk6J9oH">Whatsapp</a>
         </div>
         <div class="m-about" id="youtube">
-            <h4>Veja nosso youtube</h4>
+            <h4>Veja nosso youtube:</h4>
             <a href="">Youtube</a>
         </div>
     </div>`
